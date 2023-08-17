@@ -1,0 +1,14 @@
+.navbar {
+    position: fixed;
+    height: 8%;
+    width: 96%;
+    margin: 1% 2% 2% 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #124429;
+    border: 5px solid #4a8662;
+    border-radius: 10px;
+    z-index: 100;
+    padding-inline: 10px;
+}
