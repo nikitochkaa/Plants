@@ -1,6 +1,8 @@
 .App {
   text-align: center;
-  background-color: #0e5432;
+  background-image: url("background_image_dark.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   height:100%;
   width: 100%;
   position:fixed;

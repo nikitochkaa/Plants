@@ -11,4 +11,11 @@
     border-radius: 10px;
     z-index: 100;
     padding-inline: 10px;
+    .name {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #4a8662;
+        text-shadow: 2px 2px 2px #000000;
+        margin-left: 10px;
+    }
 }
