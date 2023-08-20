@@ -1,0 +1,17 @@
+.flowerinfo {
+    position: fixed;
+    top: 14%;
+    left: 26%;
+    height: 83%;
+    width: 72%;
+    border: 5px solid #4a8662;
+    border-radius: 10px;
+    background-color: #124429;
+    & span {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #4a8662;
+        text-shadow: 2px 2px 2px #000000;
+        margin: 10px;
+    }
+}

@@ -1,4 +1,6 @@
 @import "NavBar.css";
+@import "FlowersList.css";
+@import "FlowerInfo.css";
 
 body {
   margin: 0;
