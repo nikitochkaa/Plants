@@ -1,4 +1,5 @@
 import React from 'react';
+import Flower from "./Flower";
 
 const FlowersList = () => {
   return (
@@ -6,6 +7,9 @@ const FlowersList = () => {
       <div className="searchbar">
         <input type="text" placeholder="Search plant"/>
       </div>
+      <Flower/>
+      <Flower/>
+      <Flower/>
     </div>
   );
 };
